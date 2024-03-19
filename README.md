@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyz103👨‍💻</h1>
-<h3 align="center">An ndergraduate student of Shandong University</h3>
+<h3 align="center">An undergraduate student of Shandong University</h3>
 
 
 
