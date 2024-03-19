@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lyz103👨‍💻</h1>
 <h3 align="center">An ndergraduate student of Shandong University</h3>
 
-#<p align="center">
-#<a title="zhihu" target="_blank" href="https://www.zhihu.com/people/wo-hen-bang-bang-e-32"><img alt="Static Badge" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E6%88%91%E7%8B%A0%E6%A3%92%E6%A3%92%E5%93%A6-blue">
-#</a>
 
 
 <p align="center">  How to reach me 📫 liyuanzi103@gmail.com 📫
