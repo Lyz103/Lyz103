@@ -3,7 +3,7 @@
 
 
 
-<p align="center">  How to reach me 📫 liyuanzi103@gmail.com 📫
+<p align="center">  How to reach me 📫 liyuanzi@mail.sdu.edu.cn 📫
 
 <p align="center"><img width="300" height="200" src="https://github.com/Lyz103/Lyz103/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
 
